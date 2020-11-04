@@ -5,6 +5,11 @@ The datasets are retrieved from Antonio et al. (2019), which contain two CSV fil
 
 In this project, we aim to 1) identify variables that are associated with cancelled hotel booking, and 2) build a model that can classify whether a booking is likely to be cancelled.
 
+## Repository Structure
+
+**bdas** directory stores the data mining steps conducted using Big Data Analytics Software stack, where we use PySpark library in Python.
+**osas** directory stores the data mining steps conducted using Open-Source Analytics Software stack. Here, we use Python-based libraries to complete the end-to-end process.
+
 ## References
 
 Antonio, N., De Almeida, A., & Nunes, L. (2019). Hotel booking demand datasets. Data in Brief, 22, 41-49. https://doi.org/10.1016/j.dib.2018.11.126
