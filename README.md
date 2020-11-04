@@ -7,8 +7,8 @@ In this project, we aim to 1) identify variables that are associated with cancel
 
 ## Repository Structure
 
-**bdas** directory stores the data mining steps conducted using Big Data Analytics Software stack, where we use PySpark library in Python.
-**osas** directory stores the data mining steps conducted using Open-Source Analytics Software stack. Here, we use Python-based libraries to complete the end-to-end process.
+- **bdas** directory stores the data mining steps conducted using Big Data Analytics Software stack, where we use PySpark library in Python.
+- **osas** directory stores the data mining steps conducted using Open-Source Analytics Software stack. Here, we use Python-based libraries to complete the end-to-end process.
 
 ## References
 
